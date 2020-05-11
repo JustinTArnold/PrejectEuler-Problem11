@@ -1,0 +1,3 @@
+Link to problem - https://projecteuler.net/problem=11
+
+The goal here is to use any method to find a solution, I choose to use python
